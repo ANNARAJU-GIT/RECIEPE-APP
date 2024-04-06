@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import AddReciepe from './components/AddReciepe';
 
 function App() {
   return (
     <div>
-      <p>jjjj</p>
+      <AddReciepe/>
     </div>
   );
 }
